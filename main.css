@@ -1,0 +1,208 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* button  */
+.link-button {
+    text-decoration: none;
+    background-color: #fb0f5a;
+    border-radius: 25px;
+    font-weight: 600;
+    padding: 10px 20px;
+    color: white;
+}
+
+.link-button:hover {
+    color: white;
+}
+
+/* button  */
+
+/* hero section  */
+span {
+    color: #fb0f5a;
+}
+
+.hero-img {
+    width: 70%;
+    border-radius: 20%;
+}
+
+
+/* section04 */
+
+.rating-section {
+    display: flex;
+    box-shadow: 5px 5px 5px 5px rgba(119, 113, 113, 0.342);
+    margin-left: 105px;
+    margin-right: 105px;
+    padding-left: 20px;
+    padding-bottom: 50px;
+    border-radius: 20px;
+}
+
+.first {
+    text-align: left;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+
+.first h3 {
+    padding: 0;
+    margin: 0;
+}
+
+.first p {
+    padding: 0;
+    margin: 0;
+}
+
+.second {
+    text-align: left;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+
+.second h3 {
+    padding: 0;
+    margin: 0;
+}
+
+.second p {
+    padding: 0;
+    margin: 0;
+}
+
+/* section04 */
+
+.rating-section {
+    display: flex;
+    box-shadow: 5px 5px 5px 5px rgba(119, 113, 113, 0.342);
+    margin-left: 105px;
+    margin-right: 105px;
+    padding-left: 20px;
+    padding-bottom: 50px;
+    border-radius: 20px;
+}
+
+.first {
+    text-align: left;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+
+.first h3 {
+    padding: 0;
+    margin: 0;
+}
+
+.first p {
+    padding: 0;
+    margin: 0;
+}
+
+.second {
+    text-align: left;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+
+.second h3 {
+    padding: 0;
+    margin: 0;
+}
+
+.second p {
+    padding: 0;
+    margin: 0;
+}
+
+.third {
+    text-align: left;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+
+.third h3 {
+    padding: 0;
+    margin: 0;
+}
+
+.third p {
+    padding: 0;
+    margin: 0;
+}
+
+h3 {
+    font-size: 40px;
+    font-weight: 800;
+}
+
+/* =- */
+/* section04 */
+
+.rating-section {
+    margin-top: 50px;
+    display: flex;
+    box-shadow: 5px 5px 5px 5px rgba(119, 113, 113, 0.342);
+    margin-left: 105px;
+    margin-right: 105px;
+    padding-left: 20px;
+    padding-bottom: 50px;
+    border-radius: 20px;
+}
+
+.first {
+    text-align: left;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+
+.first h3 {
+    padding: 0;
+    margin: 0;
+}
+
+.first p {
+    padding: 0;
+    margin: 0;
+}
+
+.second {
+    text-align: left;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+
+.second h3 {
+    padding: 0;
+    margin: 0;
+}
+
+.second p {
+    padding: 0;
+    margin: 0;
+}
+
+.four {
+    text-align: left;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+
+.four h3 {
+    padding: 0;
+    margin: 0;
+}
+
+.four p {
+    padding: 0;
+    margin: 0;
+}
+
+h3 {
+    font-size: 40px;
+    font-weight: 800;
+}
